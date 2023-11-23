@@ -1,0 +1,17 @@
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\bin\Debug\net7.0-windows\ABC.Desktop.exe
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\bin\Debug\net7.0-windows\ABC.Desktop.deps.json
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\bin\Debug\net7.0-windows\ABC.Desktop.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\bin\Debug\net7.0-windows\ABC.Desktop.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\bin\Debug\net7.0-windows\ABC.Desktop.pdb
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.FrmPrincipal.resources
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\refint\ABC.Desktop.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.pdb
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ABC.Desktop.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Apresentacao\ABC.Desktop\obj\Debug\net7.0-windows\ref\ABC.Desktop.dll
