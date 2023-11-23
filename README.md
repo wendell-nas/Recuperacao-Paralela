@@ -1,0 +1,2 @@
+# Recuperacao-Paralela
+Recuperação paralela.
