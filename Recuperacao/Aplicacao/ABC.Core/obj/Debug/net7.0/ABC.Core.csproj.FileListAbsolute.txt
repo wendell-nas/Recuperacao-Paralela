@@ -1,0 +1,12 @@
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\bin\Debug\net7.0\ABC.Core.deps.json
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\bin\Debug\net7.0\ABC.Core.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\bin\Debug\net7.0\ABC.Core.pdb
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\refint\ABC.Core.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ABC.Core.pdb
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\Aplicacao\ABC.Core\obj\Debug\net7.0\ref\ABC.Core.dll
