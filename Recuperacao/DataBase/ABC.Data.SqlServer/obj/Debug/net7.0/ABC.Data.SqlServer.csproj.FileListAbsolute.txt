@@ -10,3 +10,6 @@ C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\
 C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\ABC.Data.SqlServer\obj\Debug\net7.0\refint\ABC.Data.SqlServer.dll
 C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\ABC.Data.SqlServer\obj\Debug\net7.0\ABC.Data.SqlServer.pdb
 C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\ABC.Data.SqlServer\obj\Debug\net7.0\ref\ABC.Data.SqlServer.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\ABC.Data.SqlServer\bin\Debug\net7.0\ABC.Core.dll
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\ABC.Data.SqlServer\bin\Debug\net7.0\ABC.Core.pdb
+C:\Users\Senai.CEPEAS21103941\Desktop\Recuperacao-pararela\Recuperacao\DataBase\ABC.Data.SqlServer\obj\Debug\net7.0\ABC.Data.SqlServer.csproj.CopyComplete
